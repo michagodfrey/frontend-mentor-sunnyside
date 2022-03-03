@@ -17,6 +17,8 @@ Hello! Thank you for visiting this repository. This is a solution to the [Sunnys
 
 The challenge is to build out this landing page and get it looking as close to the design as possible.
 
+I welcome feedback on my code because there is lots I still don't know and I'm looking for ways to improve. 
+
 ### The challenge
 
 Users should be able to:
@@ -43,6 +45,8 @@ I styled the mobile layout, then the desktop layout, finally I worked on the fin
 - JavaScript
 
 ### What I learned
+
+I found naming elements hard in this challenge and this only gets harder as I code bigger things. Some sections are named better than others, but even where they make more sense, they are long.
 
 Displaying the background images was tricky at first because I had little experience using background images but learned a lot about them in this project. After trial and error I found that background-position: center and background-size: cover were the styles needed for this project.
 
