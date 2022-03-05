@@ -12,12 +12,13 @@ Hello! Thank you for visiting this repository. This is a solution to the [Sunnys
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 The challenge is to build out this landing page and get it looking as close to the design as possible.
 
-I welcome feedback on my code because there is lots I still don't know and I'm looking for ways to improve. 
+I welcome feedback on my code because there is lots I still don't know and I'm looking for ways to improve.
 
 ### The challenge
 
@@ -106,3 +107,8 @@ I am excited that my HTML and CSS skills are at a level where I can build things
 - Website - [My showcase page](https://michagodfrey.github.io/)
 - Frontend Mentor - [@michagodfrey](https://www.frontendmentor.io/profile/michagodfrey)
 - Twitter - [@Michael07865192](https://twitter.com/Michael07865192)
+
+
+## Acknowledgments
+
+The speech bubble dropdown menu on mobile screen was generated with a CSS speech bubble generator at https://www.html-code-generator.com/css/speech-bubble-generator
