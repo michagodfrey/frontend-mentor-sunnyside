@@ -429,6 +429,7 @@ svg .icon--path:hover {
 .attribution {
   font-size: .8rem;
   text-align: center;
+  margin-top: 2rem;
 }
 
 .attribution a {
